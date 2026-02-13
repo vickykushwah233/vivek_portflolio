@@ -898,6 +898,12 @@
             box-shadow: 0 10px 30px rgba(255, 106, 0, 0.3);
         }
 
+.contact-ico img{
+    width: 37px;
+    height: 37px;
+}
+
+
         .contact-label {
             font-size: 0.85rem;
             text-transform: uppercase;
