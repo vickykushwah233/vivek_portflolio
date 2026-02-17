@@ -70,6 +70,7 @@
             .exp-item::before {
                 left: -42px;
             }
+            
         }
 
         @media (max-width: 640px) {
@@ -110,4 +111,6 @@
             .edu-wrap {
                 grid-template-columns: 1fr;
             }
+
+           
         }
