@@ -1,5 +1,5 @@
  /* Responsive */
-        @media (max-width: 968px) {
+        @media (max-width: 992px) {
             .menu {
                 position: fixed;
                 top: 0;
@@ -73,10 +73,18 @@
             
         }
 
-        @media (max-width: 640px) {
-            nav {
+@media (max-width: 767px) {
+
+}
+
+
+
+
+
+        @media (max-width: 414px) {
+            /* nav {
                 padding: 1.2rem 5%;
-            }
+            } */
 
             section {
                 padding: 4rem 5%;
