@@ -264,6 +264,10 @@
             transition: all 0.3s;
         }
 
+.menu i{
+    display: none;
+}
+
         /* Hero */
         .hero {
             min-height: 100vh;
