@@ -862,7 +862,7 @@ line-height: 100px;
         }
 
         .project:hover .project-img img {
-            transform: scale(1.15);
+            transform: scale(1.02);
         }
 
         .project-img::before {
@@ -878,7 +878,7 @@ line-height: 100px;
         }
 
         .project-details {
-            padding: 2rem;
+            padding: 1rem;
         }
 
         .project-name {
